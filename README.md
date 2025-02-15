@@ -6,6 +6,7 @@
 - 💬 Ask me about **Vue,Laravel**
 
 - 📫 How to reach me **info.awaisjavaid@gmail.com**
+- <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=malikawaisjavaid" target="_blank">Follow on LinkedIn</a>
 
 <p align="left">
 </p>
